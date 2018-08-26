@@ -118,10 +118,9 @@ body {
   left: 54px;
 }
 
-/*.slideTwo input[type=checkbox]:checked+label:after {
+.slideTwo input[type=checkbox]:checked+label:after {
   background: #27ae60;
   /*activeColor*/
-
 }
 
 /* end .slideTwo */
