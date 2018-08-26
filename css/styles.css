@@ -332,11 +332,11 @@ body {
   opacity: 0.3;
 }
 
-/*.squaredOne input[type=checkbox] {
+.squaredOne input[type=checkbox] {
   visibility: hidden;
 }
 
-.squaredOne input[type=checkbox]:checked+label:after {
+/*.squaredOne input[type=checkbox]:checked+label:after {
   opacity: 1;
 }
 
