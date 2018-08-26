@@ -227,11 +227,11 @@ body {
   opacity: 0.3;
 }
 
-/*.roundedOne input[type=checkbox] {
+.roundedOne input[type=checkbox] {
   visibility: hidden;
 }
 
-.roundedOne input[type=checkbox]:checked+label:after {
+/*.roundedOne input[type=checkbox]:checked+label:after {
   opacity: 1;
 }
 
