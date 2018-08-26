@@ -110,18 +110,17 @@ body {
   box-shadow: inset 0px 1px 1px black, 0px 1px 0px rgba(255, 255, 255, 0.9);
 }
 
-/*.slideTwo input[type=checkbox] {
+.slideTwo input[type=checkbox] {
   visibility: hidden;
 }
 
-.slideTwo input[type=checkbox]:checked+label {
+/8.slideTwo input[type=checkbox]:checked+label {
   left: 54px;
 }
 
 .slideTwo input[type=checkbox]:checked+label:after {
   background: #27ae60;
   /*activeColor*/
-
 }
 
 /* end .slideTwo */
