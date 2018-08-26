@@ -286,7 +286,7 @@ body {
   visibility: hidden;
 }
 
-/*.roundedTwo input[type=checkbox]:checked+label:after {
+.roundedTwo input[type=checkbox]:checked+label:after {
   opacity: 1;
 }
 
