@@ -482,11 +482,11 @@ body {
   transform: rotate(-45deg);
 }
 
-/*.squaredFour label:hover::after {
+.squaredFour label:hover::after {
   opacity: 0.5;
 }
 
-.squaredFour input[type=checkbox] {
+/*.squaredFour input[type=checkbox] {
   visibility: hidden;
 }
 
