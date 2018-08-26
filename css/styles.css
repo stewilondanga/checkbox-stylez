@@ -336,7 +336,7 @@ body {
   visibility: hidden;
 }
 
-/*.squaredOne input[type=checkbox]:checked+label:after {
+.squaredOne input[type=checkbox]:checked+label:after {
   opacity: 1;
 }
 
