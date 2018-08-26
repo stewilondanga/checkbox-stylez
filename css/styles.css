@@ -1,9 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
+  background: #3498db;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+body h1, body h2, body em {
+  color: #eee;
+  font-size: 30px;
   text-align: center;
-  font-family: courier;
-  background-image: url("../assets/image.jpeg");
-  background-repeat: no-repeat;
-  background-size: 100%;
+  margin: 20px 0 0 0;
+  -webkit-font-smoothing: antialiased;
+  text-shadow: 0px 1px #000;
+}
+
+body em {
+  font-size: 14px;
+  text-align: center;
+  display: block;
+  margin-bottom: 50px;
+}
+
+body .ondisplay {
+  text-align: center;
+  padding: 20px 0;
+}
+
+body .ondisplay section {
+  width: 100px;
+  height: 100px;
+  background: #555;
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  margin-top: 5px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+
+body .ondisplay section:after {
+  /*         visibility: hidden; */
+  content: attr(title);
+  position: absolute;
+  width: 100%;
+  left: 0;
+  bottom: 3px;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  text-shadow: 0px 1px #000;
 }
 
 .my_social {
@@ -496,73 +546,12 @@ body {
 
 /* end .squaredFour */
 
-/*
-* {
-  box-sizing: border-box;
-}
-
-body {
-  background: #3498db;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
-}
-
-body h1, body h2, body em {
-  color: #eee;
-  font-size: 30px;
-  text-align: center;
-  margin: 20px 0 0 0;
-  -webkit-font-smoothing: antialiased;
-  text-shadow: 0px 1px #000;
-}
-
-body em {
-  font-size: 14px;
-  text-align: center;
-  display: block;
-  margin-bottom: 50px;
-}
-
-body .ondisplay {
-  text-align: center;
-  padding: 20px 0;
-}
-
-body .ondisplay section {
-  width: 100px;
-  height: 100px;
-  background: #555;
-  display: inline-block;
-  position: relative;
-  text-align: center;
-  margin-top: 5px;
-  border: 1px solid gray;
-  border-radius: 5px;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-}
-
-body .ondisplay section:after {
-  /*         visibility: hidden; */
-
-/*
-  content: attr(title);
-  position: absolute;
-  width: 100%;
-  left: 0;
-  bottom: 3px;
-  color: #fff;
-  font-size: 12px;
-  font-weight: 400;
-  -webkit-font-smoothing: antialiased;
-  text-shadow: 0px 1px #000;
-}
-
 .containers {
   width: 520px;
   margin: 20px auto;
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
