@@ -431,11 +431,11 @@ body {
   transform: rotate(-45deg);
 }
 
-/*.squaredThree label:hover::after {
+.squaredThree label:hover::after {
   opacity: 0.3;
 }
 
-.squaredThree input[type=checkbox] {
+/*.squaredThree input[type=checkbox] {
   visibility: hidden;
 }
 
