@@ -223,11 +223,11 @@ body {
   box-shadow: inset 0px 1px 1px white, 0px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
-/*.roundedOne label:hover::after {
+.roundedOne label:hover::after {
   opacity: 0.3;
 }
 
-.roundedOne input[type=checkbox] {
+/*.roundedOne input[type=checkbox] {
   visibility: hidden;
 }
 
