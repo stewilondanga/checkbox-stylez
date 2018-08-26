@@ -328,11 +328,11 @@ body {
   opacity: 0;
 }
 
-/*.squaredOne label:hover::after {
+.squaredOne label:hover::after {
   opacity: 0.3;
 }
 
-.squaredOne input[type=checkbox] {
+/*.squaredOne input[type=checkbox] {
   visibility: hidden;
 }
 
