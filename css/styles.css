@@ -178,7 +178,7 @@ body {
   visibility: hidden;
 }
 
-/*.slideThree input[type=checkbox]:checked+label {
+.slideThree input[type=checkbox]:checked+label {
   left: 43px;
 }
 
