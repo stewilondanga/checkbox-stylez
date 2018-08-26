@@ -23,7 +23,6 @@ body {
 
 /* .slideOne */
 
-/*
 .slideOne {
   width: 50px;
   height: 10px;
@@ -34,7 +33,7 @@ body {
   box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.5), 0px 1px 0px rgba(255, 255, 255, 0.2);
 }
 
-.slideOne label {
+/*.slideOne label {
   display: block;
   width: 16px;
   height: 16px;
