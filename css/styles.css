@@ -453,7 +453,7 @@ body {
   margin: 20px auto;
 }
 
-/*.squaredFour label {
+.squaredFour label {
   width: 20px;
   height: 20px;
   cursor: pointer;
@@ -466,7 +466,7 @@ body {
   box-shadow: inset 0px 1px 1px white, 0px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
-.squaredFour label:after {
+/*.squaredFour label:after {
   content: '';
   width: 9px;
   height: 5px;
