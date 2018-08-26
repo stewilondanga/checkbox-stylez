@@ -294,7 +294,6 @@ body {
 
 /* .squaredOne */
 
-/*
 .squaredOne {
   width: 28px;
   height: 28px;
@@ -305,7 +304,7 @@ body {
   box-shadow: inset 0px 1px 1px white, 0px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
-.squaredOne label {
+/*.squaredOne label {
   width: 20px;
   height: 20px;
   position: absolute;
