@@ -304,7 +304,7 @@ body {
   box-shadow: inset 0px 1px 1px white, 0px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
-/*.squaredOne label {
+.squaredOne label {
   width: 20px;
   height: 20px;
   position: absolute;
@@ -315,7 +315,7 @@ body {
   box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.5), 0px 1px 0px white;
 }
 
-.squaredOne label:after {
+/*.squaredOne label:after {
   content: '';
   width: 16px;
   height: 16px;
