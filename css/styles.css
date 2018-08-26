@@ -435,11 +435,11 @@ body {
   opacity: 0.3;
 }
 
-/*.squaredThree input[type=checkbox] {
+.squaredThree input[type=checkbox] {
   visibility: hidden;
 }
 
-.squaredThree input[type=checkbox]:checked+label:after {
+/*.squaredThree input[type=checkbox]:checked+label:after {
   opacity: 1;
 }
 
