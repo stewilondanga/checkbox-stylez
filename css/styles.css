@@ -381,11 +381,11 @@ body {
   transform: rotate(-45deg);
 }
 
-/*.squaredTwo label:hover::after {
+.squaredTwo label:hover::after {
   opacity: 0.3;
 }
 
-.squaredTwo input[type=checkbox] {
+/*.squaredTwo input[type=checkbox] {
   visibility: hidden;
 }
 
