@@ -278,11 +278,11 @@ body {
   transform: rotate(-45deg);
 }
 
-/*.roundedTwo label:hover::after {
+.roundedTwo label:hover::after {
   opacity: 0.3;
 }
 
-.roundedTwo input[type=checkbox] {
+/*.roundedTwo input[type=checkbox] {
   visibility: hidden;
 }
 
