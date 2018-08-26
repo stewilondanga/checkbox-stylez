@@ -174,11 +174,11 @@ body {
   box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.3);
 }
 
-/*.slideThree input[type=checkbox] {
+.slideThree input[type=checkbox] {
   visibility: hidden;
 }
 
-.slideThree input[type=checkbox]:checked+label {
+/*.slideThree input[type=checkbox]:checked+label {
   left: 43px;
 }
 
