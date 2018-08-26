@@ -365,7 +365,7 @@ body {
   box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.5), 0px 1px 0px white;
 }
 
-/*.squaredTwo label:after {
+.squaredTwo label:after {
   content: '';
   width: 9px;
   height: 5px;
@@ -381,7 +381,7 @@ body {
   transform: rotate(-45deg);
 }
 
-.squaredTwo label:hover::after {
+/*.squaredTwo label:hover::after {
   opacity: 0.3;
 }
 
