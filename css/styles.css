@@ -389,7 +389,7 @@ body {
   visibility: hidden;
 }
 
-/*.squaredTwo input[type=checkbox]:checked+label:after {
+.squaredTwo input[type=checkbox]:checked+label:after {
   opacity: 1;
 }
 
