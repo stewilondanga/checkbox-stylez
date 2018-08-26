@@ -52,7 +52,7 @@ body {
   visibility: hidden;
 }
 
-/*.slideOne input[type=checkbox]:checked+label {
+.slideOne input[type=checkbox]:checked+label {
   left: 37px;
 }
 
