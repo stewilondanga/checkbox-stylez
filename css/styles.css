@@ -6,13 +6,13 @@ body {
   background-size: 100%;
 }
 
-/*.my_social {
+.my_social {
   position: absolute;
   top: 25px;
   left: 25px;
 }
 
-.my_social a {
+/*.my_social a {
   display: inline-block;
   height: 2.5em;
 }
@@ -127,6 +127,7 @@ body {
 .slideTwo input[type=checkbox]:checked+label:after {
   background: #27ae60;
   /*activeColor*/
+
 }
 
 /* end .slideTwo */
