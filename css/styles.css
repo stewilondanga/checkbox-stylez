@@ -1,4 +1,4 @@
-/*body {
+body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -6,7 +6,7 @@
   background-size: 100%;
 }
 
-.my_social {
+/*.my_social {
   position: absolute;
   top: 25px;
   left: 25px;
