@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -27,6 +27,7 @@ body {
 
 /* .slideOne */
 
+/*
 .slideOne {
   width: 50px;
   height: 10px;
@@ -64,6 +65,7 @@ body {
 
 /* .slideTwo */
 
+/*
 .slideTwo {
   width: 80px;
   height: 30px;
@@ -131,6 +133,7 @@ body {
 
 /* .slideThree */
 
+/*
 .slideThree {
   width: 80px;
   height: 26px;
@@ -190,6 +193,7 @@ body {
 
 /* .roundedOne */
 
+/*
 .roundedOne {
   width: 28px;
   height: 28px;
@@ -243,6 +247,7 @@ body {
 
 /* .roundedTwo */
 
+/*
 .roundedTwo {
   width: 28px;
   height: 28px;
@@ -298,6 +303,7 @@ body {
 
 /* .squaredOne */
 
+/*
 .squaredOne {
   width: 28px;
   height: 28px;
@@ -348,6 +354,7 @@ body {
 
 /* .squaredTwo */
 
+/*
 .squaredTwo {
   width: 28px;
   height: 28px;
@@ -401,6 +408,7 @@ body {
 
 /* .squaredThree */
 
+/*
 .squaredThree {
   width: 20px;
   position: relative;
@@ -451,6 +459,7 @@ body {
 
 /* .squaredFour */
 
+/*
 .squaredFour {
   width: 20px;
   position: relative;
@@ -500,6 +509,7 @@ body {
 
 /* end .squaredFour */
 
+/*
 * {
   box-sizing: border-box;
 }
@@ -546,6 +556,8 @@ body .ondisplay section {
 
 body .ondisplay section:after {
   /*         visibility: hidden; */
+
+/*
   content: attr(title);
   position: absolute;
   width: 100%;
@@ -613,3 +625,4 @@ body .ondisplay section:after {
   padding: 0 2px;
   line-height: 100%;
 }
+*/
